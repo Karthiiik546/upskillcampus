@@ -1,0 +1,18 @@
+{
+  "services": {
+    "databases-for-redis": [{
+      "credentials": {
+        "db_type": "redis",
+        "uri": "<ENTER URI>",
+        "ca_certificate_base64": "<ENTER CERT>"
+      }
+    },
+    {
+      "credentials": {
+        "db_type": "redis",
+        "uri": "<ENTER URI>",
+        "ca_certificate_base64": "ENTER CERT"
+      }
+    }]
+  }
+}
