@@ -1,4 +1,4 @@
-# Store private healthcare data off-chain and manage medical data using blockchain
+# Store private healthcare data and manage data
 
 Electronic medical records and data craves the need for innovation. The way patient health records are stored and secured today do not showcase our technological advancement in this area in the past decade, and hospitals continue to use age-old data management systems for patient data. This is partly due to strict regulations around privacy and security of medical data, which has stifled the use of latest technology to make medical data management more transparent and useful for both patients as well as doctors.
 
