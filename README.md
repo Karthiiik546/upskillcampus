@@ -183,8 +183,7 @@ Install the following dependencies -
 ### 4. Clone the repository
 
 ```
-git clone https://github.com/IBM/Medical-Blockchain.git
-cd Medical-Blockchain
+git clone link
 ```
 
 ### 5. Modify the configuration files
